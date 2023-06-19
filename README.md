@@ -2,11 +2,11 @@
 
 ## Description
 
-Personal React Portfolio to showcase projects. This portfolio is built off of Ed Roh's design.
+Routine app to help organize one's priorities.
 
 ## About
 
-This app uses the following languages and libraries: React.js, Javascript, Tailwind CSS, Framer Motion for animation, and React Hook Form for form validation.
+This app will be built with a MERN Stack plus GraphQL
 
 ## Contact
 
